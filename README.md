@@ -8,3 +8,4 @@ console.log(multiplyNumbers(5, 6));    // 30 (5 * 6 = 30)
 console.log(multiplyNumbers(10));      // 10
 console.log(multiplyNumbers());        // 0
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
